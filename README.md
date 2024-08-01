@@ -1,4 +1,4 @@
-# Polly Http Resilience
+# Http Resilience with Polly
 .NET 8 HTTP Resilience Example
 
 ## Descripton
