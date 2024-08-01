@@ -2,7 +2,7 @@
 .NET 8 HTTP Resilience Example
 
 ## Descripton
-Handle transient faults and improve teh resilience of the application. Working with resilience you are able to:
+Handle transient faults and improve the resilience of the application. Working with resilience you are able to:
 * Retry your calls;
 * Apply Circuit Braker after a number o failures;
 * Set a Timeout;
